@@ -7,4 +7,7 @@ module.exports = {
 
     return config;
   },
+  env: {
+    TEST_ENV: process.env.TEST_ENV,
+  },
 };
