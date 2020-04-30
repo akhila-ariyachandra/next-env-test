@@ -7,4 +7,9 @@ module.exports = {
 
     return config;
   },
+  // Have to list all the environment variables used here to make it available
+  // to the client code
+  env: {
+    TEST_ENV: process.env.TEST_ENV,
+  },
 };
