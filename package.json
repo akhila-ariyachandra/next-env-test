@@ -1,0 +1,28 @@
+{
+  "name": "next-env-test",
+  "version": "1.0.0",
+  "description": "An example of using Environment Variables in Next.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhila-ariyachandra/next-env-test.git"
+  },
+  "author": "Akhila Ariyachandra <akhila_ariyachandra@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhila-ariyachandra/next-env-test/issues"
+  },
+  "homepage": "https://github.com/akhila-ariyachandra/next-env-test#readme",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^1.7.0"
+  }
+}
