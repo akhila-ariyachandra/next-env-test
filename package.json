@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/akhila-ariyachandra/next-env-test#readme",
   "dependencies": {
-    "next": "^9.3.6",
+    "next": "^13.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
